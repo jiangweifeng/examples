@@ -1,7 +1,7 @@
 {
   "canisters": {
     "counter": {
-      "main": "src/Main.mo"
+      "main": "src/increment_counter.mo"
     }
   },
   "dfx": "0.8.4"
